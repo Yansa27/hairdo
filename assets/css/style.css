@@ -577,6 +577,7 @@ section {
 
 .about .content p {
   margin-bottom: 30px;
+  color: white;
 }
 
 .about .content .about-btn {
@@ -606,19 +607,20 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #67b0d1;
+  color: #ffd0d0;
   margin-bottom: 10px;
 }
 
 .about .icon-boxes .icon-box h4 {
   font-size: 20px;
+  color: white;
   font-weight: 700;
   margin: 0 0 10px 0;
 }
 
 .about .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #ffffff;
 }
 
 @media (max-width: 1200px) {
